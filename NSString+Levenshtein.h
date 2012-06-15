@@ -6,8 +6,7 @@
 //  Copyright 2009 Stefano Pigozzi. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
-
+#import <Foundation/Foundation.h>
 
 @interface NSString (Levenshtein)
 
